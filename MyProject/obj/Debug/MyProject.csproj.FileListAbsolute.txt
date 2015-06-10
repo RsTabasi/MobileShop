@@ -1,0 +1,67 @@
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\MyProject.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\MyProject.pdb
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\Newtonsoft.Json.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Net.Http.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Net.Http.WebRequest.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Helpers.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Http.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Mvc.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Razor.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.WebPages.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\Newtonsoft.Json.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Net.Http.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Net.Http.WebRequest.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Helpers.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Http.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Mvc.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.Razor.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.WebPages.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\obj\Debug\MyProject.dll
+E:\RST\Sample VS 2012\MVC\MyProject\MyProject\obj\Debug\MyProject.pdb
+S:\Programming\MVC\MyProject\MyProject\bin\MyProject.dll.config
+S:\Programming\MVC\MyProject\MyProject\bin\MyProject.dll
+S:\Programming\MVC\MyProject\MyProject\bin\MyProject.pdb
+S:\Programming\MVC\MyProject\MyProject\bin\Microsoft.Web.Infrastructure.dll
+S:\Programming\MVC\MyProject\MyProject\bin\Newtonsoft.Json.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Net.Http.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Net.Http.Formatting.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Net.Http.WebRequest.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Helpers.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Http.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Http.WebHost.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Mvc.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Razor.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.WebPages.Deployment.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.WebPages.dll
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.WebPages.Razor.dll
+S:\Programming\MVC\MyProject\MyProject\bin\Newtonsoft.Json.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Net.Http.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Net.Http.Formatting.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Net.Http.WebRequest.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Helpers.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Http.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Http.WebHost.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Mvc.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.Razor.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.WebPages.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.WebPages.Deployment.xml
+S:\Programming\MVC\MyProject\MyProject\bin\System.Web.WebPages.Razor.xml
+S:\Programming\MVC\MyProject\MyProject\obj\Debug\MyProject.csprojResolveAssemblyReference.cache
+S:\Programming\MVC\MyProject\MyProject\obj\Debug\MyProject.dll
+S:\Programming\MVC\MyProject\MyProject\obj\Debug\MyProject.pdb
+S:\Programming\MVC\MyProject\MyProject\bin\EntityFramework.dll
+S:\Programming\MVC\MyProject\MyProject\bin\EntityFramework.SqlServer.dll
+S:\Programming\MVC\MyProject\MyProject\bin\MvcModel.dll
+S:\Programming\MVC\MyProject\MyProject\bin\MvcModel.pdb
+S:\Programming\MVC\MyProject\MyProject\bin\EntityFramework.xml
+S:\Programming\MVC\MyProject\MyProject\bin\EntityFramework.SqlServer.xml

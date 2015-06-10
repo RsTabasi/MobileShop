@@ -1,0 +1,256 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+        <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <link href="~/Content/bootstrap/css/bootstrap-theme.min.css" rel="stylesheet" type="text/css" />
+        <link href="~/Content/bootstrap/css/bootstrap.rtl.css" rel="stylesheet" type="text/css" />
+
+        <link href="~/Content/Style/Style.css" rel="stylesheet" type="text/css" />
+
+        <script src="~/Scripts/jquery-2.1.4.min.js"></script>
+        <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>   
+        <meta name="viewport" content="width=device-width" />
+        <title>.:. OnlineShop .:.</title>
+
+        
+
+</head>
+
+<body>    
+    <header class="clearfix">
+        <!--بخش بالایی-->
+        <div class="container">
+            <!--منو + هدر-->
+            <nav class="navbar navbar-right navbar-inverse">
+                <div class="container">
+                    <!--کدهای ریسپانسیو شدن-->
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#MainMenu">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand visible-xs">منوی اصلی</a>
+                    <!--منوهای ثابت-->
+                    <div class="container">
+                        <ul class="nav navbar-nav" id="MainMenu">
+                            <li class="active"><a href="#"><span class="glyphicon glyphicon-home"></span> خانه </a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-pencil"></span> درباره ما </a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-envelope"></span> ارتباط با ما </a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-exclamation-sign"></span> راهنمای خرید </a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-refresh"></span> به روز </a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-user"></span> ثبت نام </a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> ورود </a></li>
+                        </ul>
+
+                        <form class="navbar-form navbar-left" role="search">
+                            <div class="form-group">
+                                <input type="text" class="form-control frontsearch" placeholder="عبارت مورد نظر" />
+                            </div>
+                            <button type="submit" class="btn btn-danger">جستجو</button>
+                        </form>
+                    </div>
+                </div>
+                <!--هدر سایت-->
+                <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+                        <li data-target="#carousel-example-generic" data-slide-to="6"></li>
+                    </ol>
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+
+                        <div class="item active">
+                            <center><img src="~/Content/gallery/pic (1).jpg" alt="..."></center>
+                        </div>
+                        <div class="item">
+                            <center><img src="~/Content/gallery/pic (1).png" alt="..."></center>
+                        </div>
+                        <div class="item">
+                            <center><img src="~/Content/gallery/pic (2).jpg" alt="..."></center>
+                        </div>
+                        <div class="item">
+                            <center><img src="~/Content/gallery/pic (3).jpg" alt="..."></center>
+                        </div>
+                        <div class="item">
+                            <center><img src="~/Content/gallery/pic (4).jpg" alt="..."></center>
+                        </div>
+                        <div class="item">
+                            <center><img src="~/Content/gallery/pic (5).jpg" alt="..."></center>
+                        </div>
+                        <div class="item">
+                            <center><img src="~/Content/gallery/pic (6).jpg" alt="..."></center>
+                        </div>
+
+                    </div>
+                    <!-- Controls -->
+                    <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                    </a>
+                    <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                    </a>
+                </div> <!-- Carousel -->
+            </nav>
+
+            <!--منو موضوعی-->
+            
+                <div class="row">
+                    <section class="navbar navbar-static-top navbar-inverse ">
+                        <div class="navbar-header">
+                            
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#MenuBar">
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand visible-xs">موضوعات</a>
+                            
+                            <ul class="nav navbar-nav collapse navbar-collapse " id="MenuBar">
+                                <li class="dropdown">
+                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">موبایل<span class="caret"></span></a>
+                                    <ul class="dropdown-menu rtl" role="menu" aria-labelledby="dropdownMenu">
+                                        <li class="rtl"><a href="" tabindex="-1">سامسونگ</a></li>
+                                        <li><a href="" tabindex="-1">سونی</a></li>
+                                        <li><a href="" tabindex="-1">اپل</a></li>
+                                        <li><a href="" tabindex="-1">ال جی</a></li>
+                                        <li><a href="" tabindex="-1">هوآووی</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">تبلت<span class="caret"></span></a>
+                                    <ul class="dropdown-menu rtl" role="menu" aria-labelledby="dropdownMenu">
+                                        <li class="rtl"><a href="" tabindex="-1">سامسونگ</a></li>
+                                        <li><a href="" tabindex="-1">سونی</a></li>
+                                        <li><a href="" tabindex="-1">اپل</a></li>
+                                        <li><a href="" tabindex="-1">ال جی</a></li>
+                                        <li><a href="" tabindex="-1">هوآووی</a></li>
+                                    </ul>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">لوازم جانبی<span class="caret"></span></a>
+                                    <ul class="dropdown-menu rtl" role="menu" aria-labelledby="dropdownMenu">
+                                        <li class="rtl"><a href="" tabindex="-1">سامسونگ</a></li>
+                                        <li><a href="" tabindex="-1">سونی</a></li>
+                                        <li><a href="" tabindex="-1">اپل</a></li>
+                                        <li><a href="" tabindex="-1">ال جی</a></li>
+                                        <li><a href="" tabindex="-1">هوآووی</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="#"><span class="glyphicon glyphicon-search"></span>جستجوی پیشرفته</a></li>
+                                
+                            </ul>
+                            
+                            <form class="navbar-form navbar-left" role="search">
+                                <div class="form-group">
+                                    <a href="#"><span class="glyphicon glyphicon-shopping-cart"></span> سبد خرید شما </a>
+                                </div>
+                                
+                            </form>
+
+                        </div>
+                         
+                    </section>
+                </div>            
+        </div>      
+    </header>
+
+    <br />
+    <br />
+
+    <div class="container">
+
+        <div class="row">
+            <div  class="col col-lg-4">
+                <fieldset>
+                    <legend>نماد خرید آنلاین</legend>
+                    <center>
+                        <img src="~/Content/picture/namad2.png" />
+                    </center>
+                </fieldset>
+            </div>
+            <div class="col col-lg-8">
+                <fieldset>
+                    <legend>فرصت ویژه</legend>
+                    <div style="float:right;">
+                        <a href=""><img src="~/Content/picture/special/4_335872983782392038.jpg" width="640" height="200" /></a>
+                    </div>
+                    <div>
+                        <span class="label label-danger">قیمت : 858,000</span>
+                    
+                        <br />               
+                        <br />
+                        <span class="label label-success">قیمت ویژه : 803,000</span>
+                    
+                    </div>
+                </fieldset>
+                
+            </div>
+        </div> 
+        <br />
+        <br />
+
+        <div class="row">
+            <div class="col col-lg-4">
+                <h4>آخرین پست ها</h4>
+                <div class="jumbotron">
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                    <br />
+                </div>
+            </div>
+            <div class="col col-lg-8">
+                <fieldset>
+                    <legend>گوشی</legend>
+
+                    <div class="jumbotron">
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                    </div>
+
+                </fieldset>
+            </div>
+            <div class="row">
+                <div class="col col-lg-4">   
+                                     
+                    
+                </div>
+                <div class="col col-lg-8">
+                    <fieldset>
+                        <legend>تبلت</legend>
+
+                        <div class="jumbotron">
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                        </div>
+
+                    </fieldset>
+                </div>
+            </div>
+       </div>
+        </div>
+</body>
+</html>
+

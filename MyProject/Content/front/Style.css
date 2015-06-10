@@ -1,0 +1,24 @@
+﻿.frontSearch {
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+    width:150px !important;
+}
+
+    .frontSearch:hover {
+        width: 200px !important;
+    }
+
+.rtl 
+     {
+        text-align:right;
+        direction:rtl;
+     }
+
+a,b,span,h1,h2,h3,h4,h5,li,ul,ol,pre,textera,input[type=text]
+     {
+        font-family:'B Yekan';
+
+    }
+

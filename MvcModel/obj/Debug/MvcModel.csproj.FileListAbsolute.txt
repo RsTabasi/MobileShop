@@ -1,0 +1,10 @@
+S:\Programming\MVC\MyProject\MvcModel\obj\Debug\MvcModel.csprojResolveAssemblyReference.cache
+S:\Programming\MVC\MyProject\MvcModel\bin\Debug\MvcModel.dll.config
+S:\Programming\MVC\MyProject\MvcModel\bin\Debug\MvcModel.dll
+S:\Programming\MVC\MyProject\MvcModel\bin\Debug\MvcModel.pdb
+S:\Programming\MVC\MyProject\MvcModel\bin\Debug\EntityFramework.dll
+S:\Programming\MVC\MyProject\MvcModel\bin\Debug\EntityFramework.SqlServer.dll
+S:\Programming\MVC\MyProject\MvcModel\bin\Debug\EntityFramework.xml
+S:\Programming\MVC\MyProject\MvcModel\bin\Debug\EntityFramework.SqlServer.xml
+S:\Programming\MVC\MyProject\MvcModel\obj\Debug\MvcModel.dll
+S:\Programming\MVC\MyProject\MvcModel\obj\Debug\MvcModel.pdb
